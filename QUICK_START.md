@@ -67,6 +67,11 @@ install.packages(c("caret", "ggplot2", "dplyr", "randomForest", "e1071"))
    - Fill in your personal goals
    - Make your first daily entry
 
+### 📚 Exercise Resources Available
+- **`EXERCISES.md`** - Start here for practical programming projects
+- **`EXAM_EXERCISES.md`** - University-level exam preparation with mathematical derivations
+- **`ADVANCED_EXERCISES.md`** - Advanced challenges for comprehensive learning
+
 ### Day 2-3: Core Concepts (4-5 hours total)
 - [ ] Complete reading `01_introduction.pdf`
 - [ ] Understand supervised vs unsupervised learning
@@ -243,6 +248,8 @@ Before you finish your first study session:
 | Don't know where to start | This guide | 5 min |
 | Need detailed weekly plan | `WEEKLY_GUIDE.md` | 15 min |
 | Want specific exercises | `EXERCISES.md` | 10 min |
+| Need exam preparation | `EXAM_EXERCISES.md` | 20 min |
+| Want advanced challenges | `ADVANCED_EXERCISES.md` | 30 min |
 | Looking for extra resources | `RESOURCES.md` | 20 min |
 | Need to track progress | `PROGRESS_TRACKER.md` | 5 min |
 | Want complete overview | `README.md` | 30 min |

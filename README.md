@@ -89,6 +89,11 @@ By the end of this study plan, you will:
 3. **Implementation (30-45 min):** Code algorithms from scratch
 4. **Reflection (15 min):** Document key insights and questions
 
+### 📝 Exercise Resources
+- **`EXERCISES.md`** - Practical programming projects and hands-on exercises
+- **`EXAM_EXERCISES.md`** - University-level exam questions with mathematical derivations ⭐
+- **`ADVANCED_EXERCISES.md`** - Advanced topics and comprehensive challenges ⭐⭐⭐
+
 ### Weekly Milestones
 - **Week 1:** Complete introduction and implement basic ML workflow
 - **Week 2:** Master linear regression with practical applications
@@ -102,6 +107,11 @@ By the end of this study plan, you will:
 ## 🛠️ Practical Exercises
 
 ### Programming Projects (Choose your preferred language: Python, R, or MATLAB)
+
+#### Exercise Resources
+- **Basic Exercises:** See `EXERCISES.md` for detailed programming projects
+- **Exam Preparation:** Use `EXAM_EXERCISES.md` for university-level problems ⭐
+- **Advanced Challenges:** Explore `ADVANCED_EXERCISES.md` for comprehensive projects ⭐⭐⭐
 
 #### Week 1-2: Foundation Projects
 - [ ] Implement gradient descent from scratch
@@ -227,6 +237,12 @@ Mark your progress as you complete each section:
 3. **Set Up Tools:** Install Python/R and necessary libraries
 4. **Join Community:** Find study partners or online groups
 5. **Track Progress:** Use this README as your progress tracker
+6. **Practice Exercises:** Start with `EXERCISES.md`, then move to `EXAM_EXERCISES.md` for exam prep
+
+### 📚 Exercise Progression Guide
+- **Beginner:** Start with `EXERCISES.md` practical projects
+- **Intermediate:** Practice with `EXAM_EXERCISES.md` mathematical problems
+- **Advanced:** Challenge yourself with `ADVANCED_EXERCISES.md` comprehensive projects
 
 **Ready to begin your Machine Learning journey? Let's start with Week 1! 🎯**
 
