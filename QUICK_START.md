@@ -91,8 +91,9 @@ install.packages(c("caret", "ggplot2", "dplyr", "randomForest", "e1071"))
 1. **This Quick Start Guide** ← You are here
 2. **README.md** (Main study plan)
 3. **01_introduction.pdf** (Complete reading)
-4. **EXERCISES.md** (Week 1 exercises)
-5. **WEEKLY_GUIDE.md** (Detailed Week 1 breakdown)
+4. **EXERCISES.md** (Week 1 programming exercises)
+5. **MATHEMATICAL_EXERCISES.md** (Week 2-3 theoretical exercises)
+6. **WEEKLY_GUIDE.md** (Detailed Week 1 breakdown)
 
 ### As You Progress
 - **PROGRESS_TRACKER.md** (Daily tracking)

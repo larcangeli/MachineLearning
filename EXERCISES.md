@@ -2,6 +2,8 @@
 
 This document provides detailed coding exercises, projects, and hands-on activities to complement your theoretical learning. Each exercise is designed to reinforce the concepts covered in the corresponding week's material.
 
+> **📖 Looking for mathematical and theoretical exercises?** Check out [`MATHEMATICAL_EXERCISES.md`](MATHEMATICAL_EXERCISES.md) for derivations, proofs, and analytical problems that complement these practical coding exercises.
+
 ## 🛠️ Setup Instructions
 
 ### Required Software

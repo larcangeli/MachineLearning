@@ -103,6 +103,8 @@ By the end of this study plan, you will:
 
 ### Programming Projects (Choose your preferred language: Python, R, or MATLAB)
 
+> **📖 New!** Mathematical and theoretical exercises are now available in [`MATHEMATICAL_EXERCISES.md`](MATHEMATICAL_EXERCISES.md) - these complement the programming exercises with derivations, proofs, and analytical problems.
+
 #### Week 1-2: Foundation Projects
 - [ ] Implement gradient descent from scratch
 - [ ] Build a simple linear regression model
